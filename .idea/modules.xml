@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/01study_ThreadBase.iml" filepath="$PROJECT_DIR$/01study_ThreadBase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../demo-springboot/demo-springboot.iml" filepath="$PROJECT_DIR$/../demo-springboot/demo-springboot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../javaspringboot/javaspringboot.iml" filepath="$PROJECT_DIR$/../javaspringboot/javaspringboot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../javaspringboot2/javaspringboot2.iml" filepath="$PROJECT_DIR$/../javaspringboot2/javaspringboot2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../packageWarSpringBoot/packageWarSpringBoot.iml" filepath="$PROJECT_DIR$/../packageWarSpringBoot/packageWarSpringBoot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../springbootmybatis/springbootmybatis.iml" filepath="$PROJECT_DIR$/../springbootmybatis/springbootmybatis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../springbootproject/springbootproject.iml" filepath="$PROJECT_DIR$/../springbootproject/springbootproject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../springbootprojectinterface/springbootprojectinterface.iml" filepath="$PROJECT_DIR$/../springbootprojectinterface/springbootprojectinterface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../springthymeleaf/springthymeleaf.iml" filepath="$PROJECT_DIR$/../springthymeleaf/springthymeleaf.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="demo-springboot" />
+        <module name="javaspringboot" />
+        <module name="javaspringboot2" />
+        <module name="packageWarSpringBoot" />
+        <module name="springbootmybatis" />
+        <module name="springbootprojectinterface" />
+        <module name="springthymeleaf" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="demo-springboot" target="1.8" />
+      <module name="javaspringboot" target="1.8" />
+      <module name="javaspringboot2" target="1.8" />
+      <module name="packageWarSpringBoot" target="1.8" />
+      <module name="springboot-mybatis" target="1.8" />
+      <module name="springbootmybatis" target="1.8" />
+      <module name="springbootprojectinterface" target="1.5" />
+      <module name="springthymeleaf" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
